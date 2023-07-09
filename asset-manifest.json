@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PORTFOLIO-UDDESHYA/static/css/main.7b9b6479.css",
+    "main.js": "/PORTFOLIO-UDDESHYA/static/js/main.dec9c2cf.js",
+    "static/media/Me.png": "/PORTFOLIO-UDDESHYA/static/media/Me.00d0172631cc99b34b6b.png",
+    "static/media/personal.png": "/PORTFOLIO-UDDESHYA/static/media/personal.6b4bdbc62e43a15a9d1f.png",
+    "static/media/CL.jpg": "/PORTFOLIO-UDDESHYA/static/media/CL.cb639af3340a6c63a104.jpg",
+    "static/media/CV.pdf": "/PORTFOLIO-UDDESHYA/static/media/CV.970caa1d0472d438f947.pdf",
+    "static/media/CS.jpg": "/PORTFOLIO-UDDESHYA/static/media/CS.96a70e2d7947f9115854.jpg",
+    "static/media/Us.jpg": "/PORTFOLIO-UDDESHYA/static/media/Us.06b72ad0cc281033972e.jpg",
+    "static/media/LE.jpg": "/PORTFOLIO-UDDESHYA/static/media/LE.a199db4fc40f22b2bb0d.jpg",
+    "static/media/To.jpg": "/PORTFOLIO-UDDESHYA/static/media/To.fc6accb7c64ff56d7257.jpg",
+    "static/media/so.jpg": "/PORTFOLIO-UDDESHYA/static/media/so.440d2dc2bcc3545be0d9.jpg",
+    "index.html": "/PORTFOLIO-UDDESHYA/index.html",
+    "main.7b9b6479.css.map": "/PORTFOLIO-UDDESHYA/static/css/main.7b9b6479.css.map",
+    "main.dec9c2cf.js.map": "/PORTFOLIO-UDDESHYA/static/js/main.dec9c2cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b9b6479.css",
+    "static/js/main.dec9c2cf.js"
+  ]
+}
